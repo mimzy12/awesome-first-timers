@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+
+- Name: Erika Bucio 
+  Place: Ohio, USA  
+  Bio: Newbie  
+  GitHub: [erika](https://github.com/mimzy12) 
